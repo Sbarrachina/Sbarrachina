@@ -4,9 +4,9 @@
 ### This is Sandra Barrachina!
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sbarrachina)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-barrachina-00569630/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sandrabarrachina1978@gmail.com)
 
 Bienvenido a mi perfil de Github! Soy Sandra Barrachina, desarrolladora web con experiencia en proyectos audiovisuales y habilidades creativas. Tras completar un bootcamp de programación, busco oportunidades en tecnología para aplicar mis habilidades y contribuir al éxito de los proyectos en los que trabaje. Actualmente estoy buscando empleo y me encantaría formar parte de un equipo en el que pueda aplicar mis habilidades y crecer como desarrolladora web. Si estás interesado en trabajar conmigo, no dudes en ponerte en contacto. ¡Estoy deseando conocerte!
 
@@ -17,9 +17,16 @@ Welcome to my Github profile! I'm Sandra Barrachina, a web developer with experi
 
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
+#### : HABILIDADES DESTACADAS 
+- Coordinar equipos y motivarlos para que alcancen los objetivos
+- Organizada y resolutiva.
+- Crear documentación , partes técnicos.
+- Habilidades en redacción y edicion de contenido.
+- 
+ Web de apuntes [bi4 Group Spain](https://sbarrachinacode-apuntes.netlify.app/) 
+
+
+
 - Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
@@ -28,15 +35,35 @@ Welcome to my Github profile! I'm Sandra Barrachina, a web developer with experi
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: 
+
+-----------------------------------------
+
+#### :computer: SKILLS PROGRAMADORA: 
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
 
 
------------------------------------------------------
+
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+
+
+
+
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 
 
 </p>
