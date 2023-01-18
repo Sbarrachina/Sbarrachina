@@ -23,9 +23,9 @@ Welcome to my Github profile! I'm Sandra Barrachina, a web developer with experi
 - Crear documentación , partes técnicos.
 - Habilidades en redacción y edicion de contenido.
 
-  Apuntes programadora [ver web](https://sbarrachinacode-apuntes.netlify.app/) :books:
+  Apuntes programadora [Ver web](https://sbarrachinacode-apuntes.netlify.app/) :books:
   
-  Mis libros publicados en Amazon [ver perfil](https://www.amazon.es/Sra-SANDRA-BARRACHINA-ARRIBAS/e/B07R7PMKKQ?ref=sr_ntt_srch_lnk_2&qid=1674060753&sr=1-2) :book:
+  Mis libros publicados en Amazon [Ver perfil](https://www.amazon.es/Sra-SANDRA-BARRACHINA-ARRIBAS/e/B07R7PMKKQ?ref=sr_ntt_srch_lnk_2&qid=1674060753&sr=1-2) :book:
 
 
 
@@ -34,7 +34,7 @@ Welcome to my Github profile! I'm Sandra Barrachina, a web developer with experi
 - Edicion y colorista en proyectos cine
 - Sonido directo y mezcla sonora
 
-  10 años haciendo cine [ver video portofolio](https://www.youtube.com/watch?v=OCSpR2sNB8M) :video_camera:
+  10 años haciendo cine [Ver video portofolio](https://www.youtube.com/watch?v=OCSpR2sNB8M) :video_camera:
 
 
 -----------------------------------------
