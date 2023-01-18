@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hola mundo 👋 
+### Hola mundo 👋  
 ### This is Sandra Barrachina!
 
 
@@ -17,23 +17,25 @@ Welcome to my Github profile! I'm Sandra Barrachina, a web developer with experi
 
 
 
-#### : HABILIDADES DESTACADAS 
+#### :bulb: HABILIDADES DESTACADAS 
 - Coordinar equipos y motivarlos para que alcancen los objetivos
+- Autodidacta, siempre quiero aprender más.
 - Organizada y resolutiva.
 - Crear documentación , partes técnicos.
 - Habilidades en redacción y edicion de contenido.
-- 
- Web de apuntes [bi4 Group Spain](https://sbarrachinacode-apuntes.netlify.app/) 
+
+  Apuntes programadora [ver web](https://sbarrachinacode-apuntes.netlify.app/) :books:
+  
+  Mis libros publicados en Amazon [ver perfil](https://www.amazon.es/Sra-SANDRA-BARRACHINA-ARRIBAS/e/B07R7PMKKQ?ref=sr_ntt_srch_lnk_2&qid=1674060753&sr=1-2) :book:
 
 
 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+#### 🎬 TECNICA AUDIOVISUAL:
+- Edicion y colorista en proyectos cine
+- Sonido directo y mezcla sonora
+
+  10 años haciendo cine [ver video portofolio](https://www.youtube.com/watch?v=OCSpR2sNB8M) :video_camera:
 
 
 -----------------------------------------
