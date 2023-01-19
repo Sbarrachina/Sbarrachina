@@ -113,22 +113,23 @@ Welcome to my Github profile! I'm Sandra Barrachina, a web developer with experi
 
 #### :globe_with_meridians:  MIS WEBS  : 
 
-<img align="right" alt="img" src="https://sandrabarrachinacode.netlify.app/images/sandraFoto.png" width="40%" height="auto" />
 
-             WEB PROGRAMADORA 
+WEB PROGRAMADORA 
 
    <a href="https://sandrabarrachinacode.netlify.app/">
   <img width="8%" src="https://brandeps.com/icon-download/C/Computer-icon-vector-02.svg"></a>
   
-             BLOG DE ESCRITORA 
+BLOG DE ESCRITORA 
 
 <a href="http://sandrabarrachina.blogspot.com/">
   <img width="8%" src="https://static.vecteezy.com/system/resources/previews/000/214/889/original/vector-vintage-typewriter-machine.jpg"></a>
   
-             WEB DE TÉCNICA AUDIOVISUAL
+ WEB DE TÉCNICA AUDIOVISUAL
 
 <a href="http://www.sandrabarrachina.com/">
   <img width="6%" src="https://brandeps.com/icon-download/F/File-video-icon-vector-01.svg"></a>
 
+<br><br>
 
+<img align="left" alt="img" src="https://sandrabarrachinacode.netlify.app/images/sandraFoto.png" width="40%" height="auto" />
 
