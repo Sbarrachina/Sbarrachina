@@ -131,5 +131,4 @@ BLOG DE ESCRITORA
 
 <br><br>
 
-<img align="left" alt="img" src="https://sandrabarrachinacode.netlify.app/images/sandraFoto.png" width="40%" height="auto" />
 
